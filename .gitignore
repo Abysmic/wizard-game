@@ -1,0 +1,13 @@
+# Godot
+**/.godot/
+
+# .NET
+**/bin/
+**/obj/
+
+# IDE
+.vs/
+.idea/
+
+# macOS
+.DS_Store
